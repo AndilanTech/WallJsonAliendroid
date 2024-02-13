@@ -19,8 +19,8 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
 
-      "on_off_category":"",
-      "on_off_more_app":"",
+      "on_off_category":"1",
+      "on_off_more_app":"2",
       
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
