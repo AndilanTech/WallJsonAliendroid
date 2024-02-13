@@ -6,7 +6,7 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       "main_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
@@ -18,6 +18,10 @@
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
+
+      "on_off_category":"",
+      "on_off_more_app":"",
+      
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
